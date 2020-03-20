@@ -5,6 +5,6 @@ public interface Deck {
 	boolean hasHand();
 	Card dealNextCard();
 	PokerHand dealHand();
-	void findAndRemove(Card c);
+	void findAndDeal(Card c);
 
 }
