@@ -16,10 +16,7 @@ public static String suitToString(Card.Suit s) {
 	case HEARTS:return "Hearts";
 	case DIAMONDS:return "Diamonds";
 	case CLUBS:return "Clubs";
-	}
-	
-	return null;
-	
+	}	
+	return null;	
 }
-
 }

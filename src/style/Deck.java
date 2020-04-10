@@ -6,5 +6,4 @@ public interface Deck {
 	Card dealNextCard();
 	PokerHand dealHand();
 	void findAndDeal(Card c);
-
 }
